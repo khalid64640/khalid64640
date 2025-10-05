@@ -80,15 +80,12 @@ Currently enhancing my skills in **AI**, **Cloud Computing**, and **DevOps** to 
 </p>
 
 📞 Phone: +93 777 544 971 | +93 766 064 640 | +93 798 906 541  
-✉️ Email: [khalid@gmail.com](mailto:khalid@gmail.com)
+✉️ Email: [khalidkhairkhawa786@gmail.com](mailto:khalidkhairkhawa786@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidkhairkhawa&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkhairkhawa&layout=compact&theme=radical" />
-</p>
-
+![Khalid's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=khalidkhairkhawa&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkhairkhawa&layout=compact&theme=radical)
 ---
