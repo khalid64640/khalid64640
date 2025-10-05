@@ -86,6 +86,6 @@ Currently enhancing my skills in **AI**, **Cloud Computing**, and **DevOps** to 
 
 ## 📊 GitHub Stats
 
-![Khalid's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=khalidkhairkhawa&theme=radical&hide_border=false)  
+![Khalid's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=khalid64640&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkhairkhawa&layout=compact&theme=radical)
 ---
